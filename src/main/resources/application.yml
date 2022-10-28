@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: learnMicronautIPREMIOS
+netty:
+  default:
+    allocator:
+      max-order: 3
